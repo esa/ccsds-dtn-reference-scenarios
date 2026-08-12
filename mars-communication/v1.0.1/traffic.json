@@ -25,7 +25,7 @@
     "dst": "ipn:11.5",
     "start_time": 0,
     "end_time": -1,
-    "adu_size": 512,
+    "adu_size": 1024,
     "interval": 300,
     "ttl": 2592000
   },
@@ -55,7 +55,7 @@
     "dst": "ipn:21.5",
     "start_time": 0,
     "end_time": -1,
-    "adu_size": 512,
+    "adu_size": 1024,
     "interval": 300,
     "ttl": 2592000
   },
@@ -75,7 +75,7 @@
     "dst": "ipn:120.1",
     "start_time": 0,
     "end_time": -1,
-    "adu_size": 512,
+    "adu_size": 1024,
     "interval": 300,
     "ttl": 2592000
   },
@@ -95,7 +95,7 @@
     "dst": "ipn:220.1",
     "start_time": 0,
     "end_time": -1,
-    "adu_size": 512,
+    "adu_size": 1024,
     "interval": 300,
     "ttl": 2592000
   },
@@ -115,7 +115,7 @@
     "dst": "ipn:221.1",
     "start_time": 0,
     "end_time": -1,
-    "adu_size": 512,
+    "adu_size": 1024,
     "interval": 300
   }
 ]
